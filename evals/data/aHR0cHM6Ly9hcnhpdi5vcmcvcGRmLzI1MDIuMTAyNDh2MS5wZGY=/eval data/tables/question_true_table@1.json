@@ -1,0 +1,22 @@
+[
+    {
+        "question_id": "2502.10248v1_table@1_0",
+        "true_labels": ["chunk_230"]
+    },
+    {
+        "question_id": "2502.10248v1_table@1_1",
+        "true_labels": ["chunk_231"]
+    },
+    {
+        "question_id": "2502.10248v1_table@1_2",
+        "true_labels": ["chunk_232"]
+    },
+    {
+        "question_id": "2502.10248v1_table@1_3",
+        "true_labels": ["chunk_233"]
+    },
+    {
+        "question_id": "2502.10248v1_table@1_4",
+        "true_labels": ["chunk_237"]
+    }
+]

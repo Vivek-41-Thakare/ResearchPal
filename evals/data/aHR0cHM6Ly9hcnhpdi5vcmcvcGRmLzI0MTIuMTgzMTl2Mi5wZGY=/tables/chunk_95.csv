@@ -1,0 +1,6 @@
+﻿Methods  ,Search Success Rate ↑  ,Average Search Iteration ↓  
+GPT4o (direct)  ,58.2  ,- 
+MCTS  ,63.8  ,42.1  
+ReST-MCTS  ,65.6  ,36.3  
+Omega-MCTS  ,66.2  ,24.3  
+CoMCTS  ,80.2  ,12.7  

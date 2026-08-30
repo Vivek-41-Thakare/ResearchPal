@@ -1,0 +1,19 @@
+﻿,Model  ,Instruction Following  ,Motion Smoothness  ,Physical Plausibility  ,Aesthetic Appeal  
+Annotator-1  ,Step-Video-T2V  ,204  ,210  ,203  ,187  
+,T2VTopA  ,211  ,200  ,198  ,196  
+,T2VTopB  ,185  ,184  ,178  ,175  
+Annotator-2  ,Step-Video-T2V  ,211  ,243  ,256  ,217  
+,T2VTopA  ,241  ,243  ,242  ,228  
+,T2VTopB  ,234  ,236  ,229  ,204  
+Annotator-3  ,Step-Video-T2V  ,170  ,197  ,172  ,178  
+,T2VTopA  ,177  ,177  ,153  ,171  
+,T2VTopB  ,164  ,163  ,139  ,148  
+Annotator-4  ,Step-Video-T2V  ,199  ,232  ,230  ,225  
+,T2VTopA  ,217  ,221  ,201  ,199  
+,T2VTopB  ,194  ,219  ,194  ,194  
+Annotator-5  ,Step-Video-T2V  ,218  ,225  ,213  ,211  
+,T2VTopA  ,221  ,220  ,213  ,212  
+,T2VTopB  ,209  ,217  ,202  ,196  
+Annotator-6  ,Step-Video-T2V  ,187  ,213  ,251  ,211  
+,T2VTopA  ,193  ,201  ,259  ,197  
+,T2VTopB  ,201  ,224  ,271  ,227  

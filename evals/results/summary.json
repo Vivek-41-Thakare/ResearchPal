@@ -1,0 +1,16 @@
+{
+  "best_default_config": "cs=2500, k=7",
+  "best_f1": 0.556,
+  "best_cp": 0.404,
+  "best_cr": 0.89,
+  "best_mrr": 0.757,
+  "best_ndcg": 0.765,
+  "best_hit@5": 1.0,
+  "best_hit@10": 1.0,
+  "figure@1_best": 1.0,
+  "table@1_best": 1.0,
+  "adv_best_f1": 0.564,
+  "adv_best_mrr": 0.757,
+  "p50_query_text_default_ms": 646,
+  "p50_response_text_default_ms": 2620
+}

@@ -1,0 +1,6 @@
+[
+    "How does the pass rate improvement of FIRE compare across different models on the GSM8K dataset?",
+    "How does FIRE affect Pass@1 and Pass@10 on the MBPP and MBPP+ datasets?",
+    "How does the pass rate of Qwen2-7B-Instruct on the MATH dataset vary with different hyperparameter settings?",
+    "What is the impact of integrating FIRE with PPO on Pass@1 performance for GSM8K and MATH datasets?"
+]

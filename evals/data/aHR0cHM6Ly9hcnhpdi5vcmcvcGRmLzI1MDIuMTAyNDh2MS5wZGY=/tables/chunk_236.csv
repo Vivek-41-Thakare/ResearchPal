@@ -1,0 +1,9 @@
+﻿Category  ,Step-Video-T2V vs. Movie Gen Video (Win-Tie-Loss)  ,Step-Video-T2V vs. HunyuanVideo (Win-Tie-Loss)  ,# of Prompts  
+Overall  ,485-315-489  ,615-313-361  ,"1,289  "
+human  ,123-58-160  ,181-64-96  ,341  
+physics  ,61-54-64  ,87-47-45  ,179  
+unusual activity & subject  ,110-74-108  ,136-75-81  ,292  
+animal  ,39-37-42  ,47-30-41  ,118  
+scene  ,84-53-63  ,91-58-51  ,200  
+sequential motion  ,9-2-2  ,6-2-5  ,13  
+camera motion  ,59-37-50  ,67-37-42  ,146  

@@ -1,0 +1,18 @@
+[
+    {
+        "question_id": "1706.03762v7_figure@1_0",
+        "retrieved_figure_ids": ["chunk_73"]
+    },
+    {
+        "question_id": "1706.03762v7_figure@1_1",
+        "retrieved_figure_ids": ["chunk_76"]
+    },
+    {
+        "question_id": "1706.03762v7_figure@1_2",
+        "retrieved_figure_ids": ["chunk_83"]
+    },
+    {
+        "question_id": "1706.03762v7_figure@1_3",
+        "retrieved_figure_ids": ["chunk_87"]
+    }
+]

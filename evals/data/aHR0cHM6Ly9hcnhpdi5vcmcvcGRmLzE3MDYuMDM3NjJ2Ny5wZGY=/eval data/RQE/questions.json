@@ -1,0 +1,6 @@
+[
+    "Summarize the paper.",
+    "What are the key limitations of recurrent and convolutional neural networks in sequence modeling? How does self-attention replace recurrence and convolution in the Transformer model? What are the computational and performance advantages of the Transformer over RNN and CNN-based models? What specific mechanisms, such as multi-head attention and positional encoding, contribute to the effectiveness of the Transformer? How do the experimental results on machine translation demonstrate the superiority of the Transformer?",
+    "What is the mathematical formulation of scaled dot-product attention, and why is scaling necessary? How does multi-head attention differ from single-head attention, and what are the benefits of using multiple attention heads? How does the Transformer ensure long-range dependencies are efficiently captured? What role do position-wise feed-forward networks play in the Transformer architecture? How does positional encoding compensate for the lack of recurrence or convolution?",
+    "What were the benchmark datasets and evaluation metrics used to assess the model? How does the Transformer compare to previous state-of-the-art models in BLEU score and training efficiency? How does the model's architecture enable improved translation accuracy?"
+]

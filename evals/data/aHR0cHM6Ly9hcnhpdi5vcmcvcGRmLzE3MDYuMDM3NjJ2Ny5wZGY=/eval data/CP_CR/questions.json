@@ -1,0 +1,12 @@
+[
+    "What is the key innovation introduced by the Transformer model, and how does it differ from traditional sequence transduction models?",
+    "How does the Scaled Dot-Product Attention mechanism compute attention weights, and why is the dot product scaled?",
+    "How does self-attention compare to recurrent and convolutional layers in terms of computational complexity, parallelization, and long-range dependency learning?",
+    "Why does the Transformer require positional encoding, and how do sinusoidal functions help in representing positional information?",
+    "What optimizer is used for training the Transformer, and how is the learning rate scheduled to enhance training stability?",
+    "What is label smoothing, and how does it impact the model’s performance during training?",
+    "How does the Transformer perform on the WMT 2014 English-to-German translation task compared to previous state-of-the-art models, and what are its BLEU scores?",
+    "How does varying the number of attention heads affect the Transformer’s performance, and what trade-offs does it introduce?",
+    "How was the Transformer model adapted for constituency parsing, and how did it compare to existing models on the Penn Treebank dataset?",
+    "What potential applications beyond text-based tasks were suggested for the Transformer, and how could attention-based models be extended to handle different modalities like images, audio, and video?"
+]

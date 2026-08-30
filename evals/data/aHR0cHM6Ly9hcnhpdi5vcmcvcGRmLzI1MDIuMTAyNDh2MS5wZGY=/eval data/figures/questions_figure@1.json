@@ -1,0 +1,9 @@
+[
+    "How does the Step-Video-T2V model process user prompts into video outputs?",
+    "What is the architecture of Video-VAE, and how does it perform spatial-temporal compression?",
+    "How does DiT with 3D Full Attention incorporate bilingual text encoders and process latent frames?",
+    "How is human feedback integrated into the training process of Step-Video-T2V?",
+    "What are the key stages of video dataset processing, including segmentation, captioning, and quality assessment?",
+    "How do loss trends differ between different training stages of the model?",
+    "What are the components of the Step-Video-T2V training system, and how does it optimize GPU usage?"
+]

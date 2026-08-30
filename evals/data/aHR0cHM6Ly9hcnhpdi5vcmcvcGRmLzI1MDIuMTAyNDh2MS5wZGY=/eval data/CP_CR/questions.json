@@ -1,0 +1,12 @@
+[
+    "What are the two levels of video foundation models described in the paper, and how do they differ?",
+    "How does Step-Video-T2V’s Video-VAE achieve high spatial and temporal compression while maintaining video reconstruction quality?",
+    "What is Direct Preference Optimization (DPO), and how does it improve the visual quality of generated videos in Step-Video-T2V?",
+    "What are the key advantages of using a diffusion transformer (DiT) with 3D full attention in Step-Video-T2V?",
+    "How does Step-Video-T2V handle bilingual text prompts, and what are the advantages of using two separate text encoders?",
+    "What are the main challenges that current diffusion-based text-to-video models face, and how does Step-Video-T2V attempt to address them?",
+    "How does Step-Video-T2V use Flow Matching in training, and why is it beneficial for video generation?",
+    "What hierarchical data filtering approach does Step-Video-T2V use, and why is it important for training high-quality video generation models?",
+    "How does Step-Video-T2V compare to commercial video generation models like Sora and Veo in terms of performance and capabilities?",
+    "What role does human feedback play in refining Step-Video-T2V’s video generation, and how is it implemented in the training pipeline?"
+]

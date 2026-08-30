@@ -1,0 +1,6 @@
+[
+    "How does the Transformer architecture work in terms of encoder-decoder structure?",
+    "What is the scaled dot-product attention mechanism, and how is it computed?",
+    "How are positional encodings computed in the Transformer model?",
+    "How does attention visualization highlight dependencies in a sentence?"
+]

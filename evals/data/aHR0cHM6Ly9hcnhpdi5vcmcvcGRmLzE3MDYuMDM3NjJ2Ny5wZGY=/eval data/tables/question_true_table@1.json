@@ -1,0 +1,18 @@
+[
+    {
+        "question_id": "1706.03762v7_table@1_0",
+        "true_labels": ["chunk_89"]
+    },
+    {
+        "question_id": "1706.03762v7_table@1_1",
+        "true_labels": ["chunk_88"]
+    },
+    {
+        "question_id": "1706.03762v7_table@1_2",
+        "true_labels": ["chunk_90"]
+    },
+    {
+        "question_id": "1706.03762v7_table@1_3",
+        "true_labels": ["chunk_91"]
+    }
+]

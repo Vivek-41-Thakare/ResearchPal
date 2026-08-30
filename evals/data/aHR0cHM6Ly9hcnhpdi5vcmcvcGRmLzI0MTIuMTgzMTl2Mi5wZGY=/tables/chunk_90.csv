@@ -1,0 +1,6 @@
+﻿,Search Success Rate  ,Average Search Iteration  ,
+,GPT4o (direct pred)  ,58.2  ,,,
+"Jiaxing Huang1,∗,  ",MCTS  ,63.8  ,42.1  ,,
+,Omega-MCTS  ,65.6  ,36.3  ,,
+,Iter-MCTS  ,66.2  ,24.3  ,,
+,CoMCTS  ,80.2  ,12.7 

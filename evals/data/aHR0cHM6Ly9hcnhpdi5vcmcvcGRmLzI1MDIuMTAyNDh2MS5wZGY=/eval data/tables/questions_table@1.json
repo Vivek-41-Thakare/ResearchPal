@@ -1,0 +1,7 @@
+[
+    "What was the total number of training iterations in Step-1: T2I Pre-training (256px)?",
+    "In which category did Step-Video-T2V have the highest number of wins against HunyuanVideo according to Annotator-1?",
+    "In which category did Step-Video-T2V have the highest advantage in Motion Smoothness over HunyuanVideo?",
+    "How did Step-Video-T2V perform against T2VTopA in the 'Scenery' category according to Annotator-3?",
+    "Which model has the highest SSIM score, and what is its downsampling factor?"
+]

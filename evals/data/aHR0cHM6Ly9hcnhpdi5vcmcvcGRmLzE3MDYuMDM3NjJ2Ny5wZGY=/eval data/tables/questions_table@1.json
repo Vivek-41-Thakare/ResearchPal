@@ -1,0 +1,6 @@
+[
+    "What is the BLEU score achieved by the Transformer (big) model on the WMT 2014 English-to-German translation task?",
+    "What is the computational complexity per layer of the self-attention mechanism compared to recurrent and convolutional layers?",
+    "How does increasing the number of attention heads affect the performance of the Transformer model in terms of BLEU score?",
+    "What is the difference in F1 scores for the Transformer model in English constituency parsing compared to previous models trained on WSJ only?"
+]

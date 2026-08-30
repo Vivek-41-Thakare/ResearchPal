@@ -1,0 +1,6 @@
+[
+    "How does the Pass@𝑛 metric change as the number of samples increases for regular sampling in one of the models?",
+    "How does the number of effective answers change with the number of samples for the FIRE method in one of the models?",
+    "At what point does the Fire Pass@𝑛 curve start outperforming Regular Pass@𝑛 in one of the models?",
+    "Which sampling method (FIRE or Regular) shows a steeper improvement in Pass@𝑛 as more samples are taken?"
+]

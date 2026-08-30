@@ -1,0 +1,2 @@
+﻿Layers  ,Attention Heads  ,Head Dim  ,FFN Dim  ,Cross-Attn Dim  ,Activation Function  ,Normalization  
+48  ,48  ,128  ,"24,576  ","(6,144, 1,024)  ",GELU-approx  ,RMSNorm  

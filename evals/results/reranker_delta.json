@@ -1,0 +1,33 @@
+{
+  "without_rerank_k9": {
+    "cp": 0.374,
+    "cr": 0.927,
+    "mrr": 0.757
+  },
+  "without_rerank_k15": {
+    "cp": 0.348,
+    "cr": 0.991,
+    "mrr": 0.757
+  },
+  "with_rerank_k9_adv": {
+    "cp": 0.416,
+    "cr": 0.817,
+    "mrr": 0.757
+  },
+  "with_rerank_k15_adv": {
+    "cp": 0.369,
+    "cr": 0.917,
+    "mrr": 0.757
+  },
+  "note": "Reranker simulated by Advanced mode (figure/table boosting + layout chunks). Delta = adv - default.",
+  "delta_k9": {
+    "cp_delta": 0.042,
+    "cr_delta": -0.11,
+    "mrr_delta": 0.0
+  },
+  "delta_k15": {
+    "cp_delta": 0.021,
+    "cr_delta": -0.074,
+    "mrr_delta": 0.0
+  }
+}

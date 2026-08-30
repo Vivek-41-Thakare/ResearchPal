@@ -1,0 +1,8 @@
+﻿Fault  ,Category  ,Count  
+GPU_DBE_ERROR  ,GPU  ,3  
+GPU_LOCKED  ,GPU  ,1  
+LINK_DOWN  ,Network  ,1  
+NODE_SHUTDOWN  ,Host  ,2  
+SOFTWARE_FAULT  ,Software  ,11  
+CUDA_OOM  ,Software  ,7  
+NON_FATAL  ,Hardware  ,4  

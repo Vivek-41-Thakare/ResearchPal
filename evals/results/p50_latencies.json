@@ -1,0 +1,30 @@
+{
+  "query_latencies": {
+    "only_text": {
+      "default": 646,
+      "advanced": 870
+    },
+    "text_and_image": {
+      "default": 3352,
+      "advanced": 3965
+    },
+    "text_and_file": {
+      "default": 1865,
+      "advanced": 1988
+    }
+  },
+  "response_latencies": {
+    "only_text": {
+      "default": 2620,
+      "advanced": 4374
+    },
+    "text_and_image": {
+      "default": 6958,
+      "advanced": 8494
+    },
+    "text_and_file": {
+      "default": 3784,
+      "advanced": 5147
+    }
+  }
+}

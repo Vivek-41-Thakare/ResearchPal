@@ -1,0 +1,18 @@
+[
+    {
+        "question_id": "2410.21236v1_table@1_0",
+        "retrieved_table_ids": ["chunk_42"]
+    },
+    {
+        "question_id": "2410.21236v1_table@1_1",
+        "retrieved_table_ids": ["chunk_43"]
+    },
+    {
+        "question_id": "2410.21236v1_table@1_2",
+        "retrieved_table_ids": []
+    },
+    {
+        "question_id": "2410.21236v1_table@1_3",
+        "retrieved_table_ids": []
+    }
+]

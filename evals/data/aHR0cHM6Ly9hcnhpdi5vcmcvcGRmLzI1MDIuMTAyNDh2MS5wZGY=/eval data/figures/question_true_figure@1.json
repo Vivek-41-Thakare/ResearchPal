@@ -1,0 +1,30 @@
+[
+    {
+        "question_id": "2502.10248v1_figure@1_0",
+        "true_labels": ["chunk_197"]
+    },
+    {
+        "question_id": "2502.10248v1_figure@1_1",
+        "true_labels": ["chunk_198"]
+    },
+    {
+        "question_id": "2502.10248v1_figure@1_2",
+        "true_labels": ["chunk_203"]
+    },
+    {
+        "question_id": "2502.10248v1_figure@1_3",
+        "true_labels": ["chunk_207"]
+    },
+    {
+        "question_id": "2502.10248v1_figure@1_4",
+        "true_labels": ["chunk_219"]
+    },
+    {
+        "question_id": "2502.10248v1_figure@1_5",
+        "true_labels": ["chunk_220"]
+    },
+    {
+        "question_id": "2502.10248v1_figure@1_6",
+        "true_labels": ["chunk_215"]
+    }
+]

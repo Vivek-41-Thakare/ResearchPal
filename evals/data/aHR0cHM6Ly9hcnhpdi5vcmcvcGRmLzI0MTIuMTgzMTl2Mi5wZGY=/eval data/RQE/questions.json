@@ -1,0 +1,6 @@
+[
+    "Summarize the paper.",
+    "How is the Mulberry-260K dataset constructed, and what multimodal sources contribute to it? What are the key observations from the distribution of reasoning steps in Mulberry-260K? How does Mulberry-260K impact model performance compared to standard supervised fine-tuning?",
+    "What are the key limitations of traditional MCTS when applied to MLLMs? How does CoMCTS leverage collective learning to enhance reasoning effectiveness and efficiency? What specific steps does CoMCTS introduce, and how do they contribute to better search performance? How does CoMCTS handle error positioning and reflection in reasoning paths? What empirical evidence from benchmarks supports CoMCTS’s effectiveness?",
+    "What is the concept of reflective reasoning, and how does it differ from standard reasoning approaches? How does CoMCTS identify and integrate negative sibling nodes to construct reflective reasoning paths? What is the impact of reflective reasoning paths on model calibration and accuracy? How does reflective reasoning contribute to long-chain reasoning tasks? What experimental results demonstrate the effectiveness of reflective reasoning in Mulberry models?"
+]

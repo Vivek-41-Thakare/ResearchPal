@@ -1,0 +1,6 @@
+﻿Dataset  ,Model  ,PPO  ,PPO+FIRE  
+GSM8K  ,Deepseek  ,80.64  ,82.16  
+,Qwen2  ,80.16  ,82.02  
+,Gemma  ,40.39  ,42.91  
+,Gemma-2  ,58.07  ,61.20  
+MATH  ,Qwen2  ,53.50  ,55.07  

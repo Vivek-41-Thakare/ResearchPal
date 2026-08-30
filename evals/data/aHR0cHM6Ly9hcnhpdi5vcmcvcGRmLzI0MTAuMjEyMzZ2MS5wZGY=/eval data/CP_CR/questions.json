@@ -1,0 +1,12 @@
+[
+    "What is Flaming-hot Initiation with Regular Execution (FIRE) sampling, and how does it improve response generation?",
+    "How does FIRE sampling differ from standard token sampling techniques, and why is it particularly useful in training LLMs for reasoning tasks?",
+    "What are the key benchmarks used to evaluate FIRE’s effectiveness, and what were the main findings from these experiments?",
+    "How does FIRE impact pass@N performance across different datasets, and why does it not improve Pass@1 but benefits Pass@10 and higher?",
+    "What role does diversity in generated responses play in improving the performance of LLMs, and how does FIRE enhance this diversity?",
+    "How was FIRE integrated into Proximal Policy Optimization (PPO) training, and what improvements were observed in model performance?",
+    "What were the key findings when applying FIRE in mid-sequence sampling, and how did it affect response accuracy?",
+    "What are the primary limitations of FIRE sampling, and why does it lack strong theoretical guarantees?",
+    "What safety concerns arise from FIRE’s ability to generate out-of-distribution samples, and how can these risks be mitigated?",
+    "How does the attention sink phenomenon influence FIRE’s effectiveness, and why is the initial token so critical in LLM generation?"
+]

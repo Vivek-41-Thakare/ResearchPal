@@ -1,0 +1,12 @@
+[
+    "What are the key failures of current MLLMs that the paper highlights, and how does the proposed approach aim to address them?",
+    "What is Collective Monte Carlo Tree Search (CoMCTS), and how does it differ from traditional Monte Carlo Tree Search (MCTS) in terms of reasoning path search?",
+    "What are the four key iterative operations in CoMCTS, and how does each contribute to improving reasoning efficiency and effectiveness?",
+    "How does CoMCTS integrate negative sibling nodes into reasoning paths to enable reflective reasoning, and why is this beneficial for MLLMs?",
+    "What is Mulberry-260K, and how does it differ from existing multimodal datasets in terms of reasoning structure and diversity?",
+    "What is Collective Supervised Fine-Tuning (CoSFT), and how does it leverage CoMCTS-searched data to improve step-by-step reasoning in MLLMs?",
+    "How does CoMCTS compare with other tree search methods like ReST-MCTS and Omega-MCTS in terms of search success rate and computational efficiency?",
+    "What did the ablation studies reveal about the impact of removing collective learning or reflective reasoning data from CoMCTS?",
+    "How does the Mulberry model trained on CoMCTS-searched data perform against state-of-the-art multimodal LLMs on various benchmarks?",
+    "What are the potential applications of Mulberry-260K and CoMCTS in real-world AI systems, and what are some open challenges in multimodal reasoning that remain?"
+]

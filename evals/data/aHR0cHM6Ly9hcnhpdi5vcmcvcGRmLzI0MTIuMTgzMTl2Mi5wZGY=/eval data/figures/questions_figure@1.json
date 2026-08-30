@@ -1,0 +1,6 @@
+[
+    "What does the Search Success Rate represent in the context of different search methods?",
+    "What does the comparison between baseline models (green triangles) and the Mulberry models (red triangles) indicate?",
+    "How does the distribution of reasoning steps vary across different subsets of Mulberry-260K?",
+    "How does the reasoning process evolve across different levels, from the problem statement to the final answer?"
+]

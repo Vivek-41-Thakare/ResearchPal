@@ -1,0 +1,30 @@
+[
+    {
+        "question_id": "2502.10248v1_figure@1_0",
+        "retrieved_figure_ids": []
+    },
+    {
+        "question_id": "2502.10248v1_figure@1_1",
+        "retrieved_figure_ids": []
+    },
+    {
+        "question_id": "2502.10248v1_figure@1_2",
+        "retrieved_figure_ids": ["chunk_203"]
+    },
+    {
+        "question_id": "2502.10248v1_figure@1_3",
+        "retrieved_figure_ids": ["chunk_207"]
+    },
+    {
+        "question_id": "2502.10248v1_figure@1_4",
+        "retrieved_figure_ids": ["chunk_219"]
+    },
+    {
+        "question_id": "2502.10248v1_figure@1_5",
+        "retrieved_figure_ids": ["chunk_220"]
+    },
+    {
+        "question_id": "2502.10248v1_figure@1_6",
+        "retrieved_figure_ids": ["chunk_215"]
+    }
+]

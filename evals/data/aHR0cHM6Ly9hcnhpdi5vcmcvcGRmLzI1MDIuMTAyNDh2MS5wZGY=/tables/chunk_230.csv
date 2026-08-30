@@ -1,0 +1,12 @@
+﻿training stage  ,dataset  ,bs/node  ,learning rate  ,#iters  ,#seen samples  
+Step-1: T2I Pre-training (256px)  ,O(1)B images  ,40  ,1e-4  ,53k  ,0.8B  
+,O(1)B images  ,40  ,1e-4  ,200k  ,3B  
+,Total  ,,,253k  ,3.8B  
+Step-2: T2VI Pre-training (192px)  ,O(1)B video clips  ,4  ,6e-5  ,171k  ,256M  
+,O(100)M video clips  ,4  ,6e-5  ,101k  ,151M  
+,O(100)M video clips  ,4  ,6e-5  ,158k  ,237M  
+,Total  ,,,430k  ,644M  
+Step-2: T2VI Pre-training (540px)  ,O(100)M video clips  ,2  ,2e-5  ,23k  ,17.3M  
+,O(10)M video clips  ,2  ,1e-5  ,17k  ,8.5M  
+,O(1)M video clips  ,1  ,1e-5  ,6k  ,1.5M  
+,Total  ,,,46k  ,27.3M  

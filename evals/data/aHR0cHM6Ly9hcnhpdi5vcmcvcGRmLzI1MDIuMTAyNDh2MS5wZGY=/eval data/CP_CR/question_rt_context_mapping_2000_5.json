@@ -1,0 +1,42 @@
+[
+    {
+        "question_id": 0,
+        "retrieved_context_ids": [0, 1, 11, 8, 12]
+    },
+    {
+        "question_id": 1,
+        "retrieved_context_ids": [1, 2, 0, 9, 8]
+    },
+    {
+        "question_id": 2,
+        "retrieved_context_ids": [3, 11, 4, 8, 12]
+    },
+    {
+        "question_id": 3,
+        "retrieved_context_ids": [2, 11, 1, 4, 0]
+    },
+    {
+        "question_id": 4,
+        "retrieved_context_ids": [2, 1, 0, 8, 11]
+    },
+    {
+        "question_id": 5,
+        "retrieved_context_ids": [0, 12, 1, 11, 2]
+    },
+    {
+        "question_id": 6,
+        "retrieved_context_ids": [8, 0, 3, 1, 12]
+    },
+    {
+        "question_id": 7,
+        "retrieved_context_ids": [8, 1, 0, 3, 4]
+    },
+    {
+        "question_id": 8,
+        "retrieved_context_ids": [0, 10, 9, 1, 11]
+    },
+    {
+        "question_id": 9,
+        "retrieved_context_ids": [3, 8, 4, 0, 12]
+    }
+]

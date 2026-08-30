@@ -1,0 +1,7 @@
+﻿Model  ,Downsample Factor  ,SSIM↑  ,PSNR↑  ,rFVD↓  
+OpenSora-1.2 (Zheng et al. [2024])  ,4×8×8  ,0.9126  ,31.41  ,20.42  
+CogvideoX-1.5 (Yang et al. [2024a])  ,4×8×8  ,0.9373  ,38.10  ,16.33  
+HunyuanVideo (Kong et al. [2025])  ,4×8×8  ,0.9710  ,39.56  ,4.17  
+Cosmos-VAE (Nvidia [2025])  ,4×8×8  ,0.9315  ,37.66  ,9.10  
+Cosmos-VAE (Nvidia [2025])  ,8 × 16 × 16  ,0.8862  ,34.82  ,40.33  
+Video-VAE (Ours)  ,8 × 16 × 16  ,0.9776  ,39.37  ,3.61  
