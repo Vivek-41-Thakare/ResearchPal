@@ -2,6 +2,9 @@
 
 ### Next-Gen Academic RAG Assistant
 
+
+
+
 ResearchPal is an AI-powered academic research assistant designed to make research paper discovery, analysis, and question answering faster, smarter, and more interactive.
 
 It combines **Retrieval-Augmented Generation (RAG), semantic search, document processing, and AI agents** to help users interact with research papers and extract meaningful information from them.
