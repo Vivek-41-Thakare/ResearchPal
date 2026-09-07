@@ -661,7 +661,7 @@ function App() {
           <Brain className="brand-logo text-primary spinner-pulse" size={40} style={{ color: "#8b5cf6", minWidth: '40px' }} />
           {!sidebarMinimized && (
             <div className="brand-text">
-              <h1>ResearchPaL</h1>
+              <h1>Vivek AI</h1>
               <p>Next-Gen Academic RAG</p>
             </div>
           )}
