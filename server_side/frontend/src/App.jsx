@@ -24,7 +24,7 @@ import {
 import './App.css';
 
 // The Backend API Base URL
-const API_BASE = "http://localhost:8000";
+const API_BASE = "https://researchpal-zkia.onrender.com";
 
 function App() {
   // ==========================================
