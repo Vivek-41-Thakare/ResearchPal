@@ -1,4 +1,4 @@
-# 🔬 ResearchPal
+# 🔬 VIVEK AI
 
 ### Next-Gen Academic RAG Assistant
 ResearchPal is an AI-powered academic research assistant designed to make research paper discovery, analysis, and question answering faster, smarter, and more interactive.
