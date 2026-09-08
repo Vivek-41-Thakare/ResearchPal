@@ -455,6 +455,14 @@ def get_api_keys(
 async def health_check():
     return {"status": "healthy", "service": "ResearchPaL Next-Gen Backend"}
 
+@app.get("/keep-alive")
+async def keep_alive():
+    try:
+        db_service.client.table("documents").select("id").limit(1).execute()
+        return {"status": "alive", "database": "connected"}
+    except Exception as e:
+        raise HTTPException(status_code=500, detail=f"Database check failed: {str(e)}")
+
 @app.post("/api/parse")
 async def parse_and_index_pdf(
     background_tasks: BackgroundTasks,
